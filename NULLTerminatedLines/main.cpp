@@ -88,6 +88,13 @@ void main()
 	cout << endl;
 }
 
+//int string_length(char str[])
+//{
+//	int i = 0;
+//	for (; str[i] != 0; i++){}
+//	return i;
+//}
+
 int  string_length(char str[])		//Принимает строку и возвращает размер строки
 {
 	int i = 0;
